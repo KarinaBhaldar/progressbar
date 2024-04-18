@@ -1,0 +1,34 @@
+/* Dashboard container */
+.dashboard-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Heading */
+  h2 {
+    margin-bottom: 20px;
+  }
+  
+  /* Form data display */
+  .data-display {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  
+  /* Individual data items */
+  .data-item {
+    margin-bottom: 10px;
+  }
+  
+  /* Data labels */
+  .label {
+    font-weight: bold;
+  }
+  
+  /* Data values */
+  .value {
+    margin-left: 10px;
+  }
